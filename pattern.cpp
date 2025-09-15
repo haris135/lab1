@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
+//comment added to make changes
 int main() {
     string str, pattern;
     cout << "Enter the text: ";
